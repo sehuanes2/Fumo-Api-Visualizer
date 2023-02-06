@@ -1,0 +1,25 @@
+* {
+    font-family: 'Times New Roman';
+    color: white;
+}
+
+body {
+    background-color: rgb(22,22,22);
+}
+
+.header {
+    margin-left: 15px;
+    font-size: 150%;
+}
+
+.image {
+    margin: 15px;
+    width: 500px;
+}
+
+.description {
+    font-size: 100%;
+    color: white;
+    margin-left: 15px;
+}
+

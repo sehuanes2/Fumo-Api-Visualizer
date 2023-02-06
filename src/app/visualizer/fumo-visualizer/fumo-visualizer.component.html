@@ -1,0 +1,6 @@
+<p class="header">Fumo Api Visualizer</p>
+
+<div *ngFor="let response of results">
+    <img [src]="response.URL" class="image">
+    <p><a class="description">URL: {{response.URL}}</a></p>
+</div>
